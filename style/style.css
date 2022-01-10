@@ -1,0 +1,25 @@
+@media(max-width: 1024px) {
+    #duckduck {
+        visibility: hidden;
+    }
+}
+
+@media(max-width: 768px) {
+    #yahoo {
+        visibility: hidden;
+    }
+}
+
+@media(max-width: 480px) {
+    #bing {
+        visibility: hidden;
+    }
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+a {
+    display: inline;
+}
